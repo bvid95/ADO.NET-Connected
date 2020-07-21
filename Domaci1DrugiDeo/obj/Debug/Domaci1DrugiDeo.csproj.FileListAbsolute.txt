@@ -1,0 +1,21 @@
+D:\Faks\6 semestar\Pristup podacima\solDomaci1DrugiDeo\Domaci1DrugiDeo\obj\Debug\Domaci1DrugiDeo.csprojAssemblyReference.cache
+D:\Faks\6 semestar\Pristup podacima\solDomaci1DrugiDeo\Domaci1DrugiDeo\obj\Debug\Domaci1DrugiDeo.Form1.resources
+D:\Faks\6 semestar\Pristup podacima\solDomaci1DrugiDeo\Domaci1DrugiDeo\obj\Debug\Domaci1DrugiDeo.Properties.Resources.resources
+D:\Faks\6 semestar\Pristup podacima\solDomaci1DrugiDeo\Domaci1DrugiDeo\obj\Debug\Domaci1DrugiDeo.csproj.GenerateResource.cache
+D:\Faks\6 semestar\Pristup podacima\solDomaci1DrugiDeo\Domaci1DrugiDeo\bin\Debug\Domaci1DrugiDeo.exe.config
+D:\Faks\6 semestar\Pristup podacima\solDomaci1DrugiDeo\Domaci1DrugiDeo\bin\Debug\Domaci1DrugiDeo.exe
+D:\Faks\6 semestar\Pristup podacima\solDomaci1DrugiDeo\Domaci1DrugiDeo\bin\Debug\Domaci1DrugiDeo.pdb
+D:\Faks\6 semestar\Pristup podacima\solDomaci1DrugiDeo\Domaci1DrugiDeo\obj\Debug\Domaci1DrugiDeo.exe
+D:\Faks\6 semestar\Pristup podacima\solDomaci1DrugiDeo\Domaci1DrugiDeo\obj\Debug\Domaci1DrugiDeo.pdb
+D:\Faks\6 semestar\Pristup podacima\solDomaci1DrugiDeo\Domaci1DrugiDeo\obj\Debug\Domaci1DrugiDeo.Form2.resources
+C:\Users\Bvid\Desktop\MTZPP\solDomaci1DrugiDeo\Domaci1DrugiDeo\bin\Debug\Domaci1DrugiDeo.exe.config
+C:\Users\Bvid\Desktop\MTZPP\solDomaci1DrugiDeo\Domaci1DrugiDeo\bin\Debug\Domaci1DrugiDeo.exe
+C:\Users\Bvid\Desktop\MTZPP\solDomaci1DrugiDeo\Domaci1DrugiDeo\bin\Debug\Domaci1DrugiDeo.pdb
+C:\Users\Bvid\Desktop\MTZPP\solDomaci1DrugiDeo\Domaci1DrugiDeo\obj\Debug\Domaci1DrugiDeo.Form1.resources
+C:\Users\Bvid\Desktop\MTZPP\solDomaci1DrugiDeo\Domaci1DrugiDeo\obj\Debug\Domaci1DrugiDeo.Form2.resources
+C:\Users\Bvid\Desktop\MTZPP\solDomaci1DrugiDeo\Domaci1DrugiDeo\obj\Debug\Domaci1DrugiDeo.Properties.Resources.resources
+C:\Users\Bvid\Desktop\MTZPP\solDomaci1DrugiDeo\Domaci1DrugiDeo\obj\Debug\Domaci1DrugiDeo.csproj.GenerateResource.cache
+C:\Users\Bvid\Desktop\MTZPP\solDomaci1DrugiDeo\Domaci1DrugiDeo\obj\Debug\Domaci1DrugiDeo.csproj.CoreCompileInputs.cache
+C:\Users\Bvid\Desktop\MTZPP\solDomaci1DrugiDeo\Domaci1DrugiDeo\obj\Debug\Domaci1DrugiDeo.exe
+C:\Users\Bvid\Desktop\MTZPP\solDomaci1DrugiDeo\Domaci1DrugiDeo\obj\Debug\Domaci1DrugiDeo.pdb
+C:\Users\Bvid\Desktop\MTZPP\solDomaci1DrugiDeo\Domaci1DrugiDeo\obj\Debug\Domaci1DrugiDeo.csprojAssemblyReference.cache
